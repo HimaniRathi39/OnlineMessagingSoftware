@@ -1,4 +1,4 @@
-## OnlineMessagingSoftware ##
+## ONLINE MESSAGING SOFTWARE ##
 
 # About the Software #
 It is an online chat application trying to mimic popular messaging softwares and adding an additional feature.
@@ -25,5 +25,5 @@ FRONT END : HTML , CSS , BOOTSTRAP , JAVASCRIPT , AJAX
 BACK END : PHP
 DATABASE : PostgreSQL
 
-# WHOM TO TALK TO #
+# Whom to talk to #
 Repository Owner

@@ -17,12 +17,12 @@ Once he is out of the mode , the software deletes the messages while the user wa
 # How to setup #
 Require postgreSQL and an apache server.
 Create the database in the PostgreSQL and import the .backup file present in the repository.
-Run the apache server and run index.php file in the folder- ../OnlineMessagingSoftware/web/.
+Run the apache server and run index.php file in the folder - ../OnlineMessagingSoftware/web/.
 
 # Website Development #
 
-FRONT END : HTML , CSS , BOOTSTRAP , JAVASCRIPT , AJAX
-BACK END : PHP
+FRONT END : HTML , CSS , BOOTSTRAP , JAVASCRIPT , AJAX  
+BACK END : PHP  
 DATABASE : PostgreSQL
 
 # Whom to talk to #
